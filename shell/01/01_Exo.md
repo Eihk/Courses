@@ -6,28 +6,8 @@ Pour les exos, il faut remplir le fichier ici dans ce
 **[fichier de réponse](./01_Reponses.md)**
 
 ---
-## Exercice 1 — Questions de cours
 
-Quelles sont les commandes pour :
-1. Savoir où tu es.
-2. Afficher le contenu **détaillé** de ton dossier sans les fichiers et dossiers cachés.
-3. Changer de dossier.
-4. Afficher le fonctionnement d'une commande.
-5. Remonter d'un niveau.
-6. Retourner au dossier précédent.
-
-Quelles sont les raccourcis pour :
-1. Auto-compléter.
-2. Parcours l'historique des commandes.
-3. Nettoyer le terminal.
-4. Fermer le terminal.
-5. Arrêter la commande en cours.
-
-Quelle est la différence entre `cd /tmp` et `cd tmp` ?
-
----
-
-## Exercice 2 — Explorer l'arborescence
+## Exercice — Explorer l'arborescence
 
 Dans le dossier `01/`, on a l'arborescence suivante:
 ```
